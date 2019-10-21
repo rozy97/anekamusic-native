@@ -34,9 +34,9 @@ Chat dot io App means to communicate quickly and realtime with your friend. You 
 ## Screenshots
 <p align="center">
     <span>
-      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-125748.jpg" width="250px" />
+      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153500.jpg" width="250px" />
       &nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-125756.jpg" width="250px" />
+      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153510.jpg" width="250px" />
       &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-125809.jpg" width="250px" />
     </span>
@@ -48,7 +48,7 @@ Chat dot io App means to communicate quickly and realtime with your friend. You 
       &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-125904.jpg" width="250px" />
       &nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-125921.jpg" width="250px" />
+      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153518.jpg" width="250px" />
     </span>
     
   </p>
