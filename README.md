@@ -38,15 +38,15 @@ Chat dot io App means to communicate quickly and realtime with your friend. You 
       &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153510.jpg" width="250px" />
       &nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-125809.jpg" width="250px" />
+      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153628.jpg" width="250px" />
     </span>
     
   </p>
   <p align="center">
     <span>
-      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-125851.jpg" width="250px" />
+      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153701.jpg" width="250px" />
       &nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-125904.jpg" width="250px" />
+      <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153701.jpg" width="250px" />
       &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153518.jpg" width="250px" />
     </span>
