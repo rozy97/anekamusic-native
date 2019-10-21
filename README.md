@@ -10,11 +10,11 @@
 - [Release APK](#release-apk)
 
 ## Introduction
-Chat dot io App means to communicate quickly and realtime with your friend. You also can find out the location of your friend.
+Aneka Musik App is an native apps built uisng react-native. You can use the app for shopping, browsing, etc.
 
 ## Features
-* Chat Real time
-* Find Location
+* E - Commerse
+* Authentication
 * And others
 
 ## Requirements
@@ -26,7 +26,7 @@ Chat dot io App means to communicate quickly and realtime with your friend. You 
 
 ## Usage for development
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/rozy97/ChatDotIo.git`
+2. Type `git clone https://github.com/rozy97/anekamusic-native.git`
 3. Open the folder and type `yarn` for install dependencies and `react-native link`
 4. Before run this, you must setting configure on firebase 
 5. Type `react-native run-android` for run this app. ***Make sure your device is connected with debugging mode***.
