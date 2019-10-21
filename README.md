@@ -1,4 +1,4 @@
-<h1 align='center'>chat.io! React-Native Chat App</h1>
+<h1 align='center'>AnekaMusik E-Commerce App</h1>
 
 ## Table of Contents
 
