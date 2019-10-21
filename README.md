@@ -46,7 +46,6 @@ Chat dot io App means to communicate quickly and realtime with your friend. You 
     <span>
       <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153701.jpg" width="250px" />
       &nbsp;&nbsp;
-      <" width="250px" />
       <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153636.jpg" width="250px" />
       &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/rozy97/pic/master/Screenshot_20191021-153518.jpg" width="250px" />
